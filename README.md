@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Project Title: Simple Firebase Login 
 
 This is a simple React.js login/register page using Firebase authentication. 
 
